@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, i'm Simon Sutherland</h1>
 
-## a passionate Software Developer and Graphic Designer from London. I enjoy working both front and back-end. I also have an obsession for UX UI Design. I firmly believe in the power of open-source and its ability to drive innovation and create positive change 🌍✊ Let's connect and collaborate on exciting open-source projects!! 💻
+## a passionate Software Developer and Graphic Designer from London. I enjoy working both front and back-end. I also have an obsession for UX UI Design. I firmly believe in the power of open-source and its ability to drive innovation and create positive change. Let's connect and collaborate on exciting open-source projects!! 💻
 
 ## 🚀 About Me
 
