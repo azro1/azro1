@@ -1,16 +1,17 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=azro1&label=Profile%20views&color=0e75b6&style=flat" alt="simon" /> </p>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=azro1&label=Profile%20views&color=0e75b6&style=flat" alt="simon" /> </div>
 
-<h1 align="left">Hi👋, i'm Simon Sutherland</h1>
+<h1 align="left">Hi👋, i'm Simon Sutherland </h1>
 
-## A passionate Software Developer and Graphic Designer from London. I enjoy working both front and back-end. I also have an obsession for UX UI Design. I firmly believe in the power of open-source and its ability to drive innovation and create positive change. Let's connect and collaborate on exciting open-source projects!! 🌍💻
+## I firmly believe in the power of open-source and its ability to drive innovation and create positive change. Let's connect and collaborate on exciting open-source projects!! 🌍
 
 ## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Consolas+Code&&pause=1000&color=48D4ADFF&width=435&lines=Junior+Full-Stack+Developer;Clean+Coder;Always+learning+..+Always+growing;Skilled+UX+and+UI+Designer" />
 
 <img src="https://www.gifart.de/animationen/computer/computer-animierte-gifs-36.gif" width="200" height="150" align="right" />
 
-- 🔭 I’m currently learning <a href="https://react.dev/"><strong>React</strong></a>
-- 🌱 I’m constantly learning and exploring new technologies to expand my skillset.
-- 💡 I'm passionate about computer science, and I'm always excited to take on new challenges.
+- 🔭 Currently learning <a href="https://react.dev/"><strong>React</strong></a>
+- 🌱 Constantly learning and exploring new technologies to expand my skillset.
+- 💡 Passionate about computer science, and I'm always excited to take on new challenges.
 - 💬 Ask me about anything tech-related. I'm here to help!
 - 😄 Pronouns: He/him
 
@@ -59,11 +60,13 @@ Email: azro1.development@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azro1&layout=pie&theme=tokyonight)
 
-<img src="https://www.gifart.de/animationen/computer/computer-animierte-gifs-46.gif" width="250" height="200" align="right" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azro1&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=azro1&theme=tokyonight)
 
+<div align="left">
+  <img src="https://www.gifart.de/animationen/computer/computer-animierte-gifs-46.gif" width="250" height="200" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas+Code&pause=1000&color=48D4ADFF&width=435&lines=Thanks+for+stopping+by ..;Have+a+great+day!😄" alt="Typing SVG" />
+</div>
 
-Thanks for stopping by and taking the time to explore my profile. Have a great day! 😄
