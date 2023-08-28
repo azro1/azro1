@@ -28,6 +28,8 @@
 
   [![My technologies](https://skillicons.dev/icons?i=git,nodejs,mongodb,redis,figma,github,stackoverflow,bash,postman,firebase,visualstudio,linux,discord)](https://skillicons.dev)
 
+
+
 ## 📂 Repos
 
 Check out <a href="https://github.com/azro1">my repositories</a> to see all of my projects!
@@ -70,3 +72,5 @@ Email: azro1.development@gmail.com
   <img src="https://readme-typing-svg.demolab.com?font=Consolas+Code&pause=1000&color=48D4ADFF&width=435&lines=Thanks+for+stopping+by ..;Have+a+great+day!😄" alt="Typing SVG" />
 </div>
 
+<br>
+Image by <a href="https://www.freepik.com/free-photo/3d-rendering-zoom-call-avatar_29803187.htm">Freepik</a>
