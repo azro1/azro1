@@ -5,7 +5,7 @@
 ## I firmly believe in the power of open-source and its ability to drive innovation and create positive change. Let's connect and collaborate on exciting open-source projects!! 🌍
 
 ## 🚀 About Me
-<img src="https://readme-typing-svg.demolab.com?font=Consolas+Code&&pause=1000&color=48D4ADFF&width=435&lines=Junior+Full-Stack+Developer;Clean+Coder;Always+learning+..+Always+growing;Skilled+UX+and+UI+Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas+Code&&pause=1000&color=48D4ADFF&width=435&lines=Full-Stack+Developer;Clean+Coder;Always+learning+..+Always+growing;Skilled+UX+and+UI+Designer" />
 
 <img src="https://www.gifart.de/animationen/computer/computer-animierte-gifs-36.gif" width="200" height="150" align="right" />
 
